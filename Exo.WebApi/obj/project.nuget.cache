@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d7mc+nyTYJ7pEXv3gIFM+ECFV6a3RfbnS7rocVrZgwDtxC3EUqrElpy/x/LW+Nl3hCGnT4+3CBaA5M4fmv129w==",
+  "dgSpecHash": "v6/a2OgqOUUAuzNROTqZFyBeZDe24/XJog4P+j/Xm0oilnM5Nkx37VpvsTjQQSF1dj/oGHjveiYJJzppHhfong==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus H81M-K\\Downloads\\Desenvolvimento de APIs\\trabalho\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Asus H81M-K\\Downloads\\Desenvolvimento de APIs\\trabalho\\AtividadeAPI2\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus H81M-K\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Asus H81M-K\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
